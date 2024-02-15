@@ -1,2 +1,2 @@
-# ai_ml_as
+# AI ML AS
 AI ML AS Homework
